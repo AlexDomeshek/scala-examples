@@ -17,7 +17,6 @@ object Linearization extends App{
 
     val d = new D
 
-
 }
 
 
